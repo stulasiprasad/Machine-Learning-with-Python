@@ -1,2 +1,2 @@
-# Supervised-Learning-with-Python
-This repo is a part of ATAL Sponsored online Faculty Development Program on Artificial Intelligence(Day-1, Session-4)
+# Machine Learning with Python
+This repo is a part of the course Machine Learning (ITA6016)
